@@ -71,21 +71,21 @@ function App() {
                   '
                   >
                     <p className='tracking-[.3rem]'>SHARE</p>
-                    <img src="./src/images/icon-facebook.svg" alt="Facebook Icon"  className='size-4'/>
-                    <img src="./src/images/icon-twitter.svg" alt="Twitter Icon"  className='size-4'/>
-                    <img src="./src/images/icon-pinterest.svg" alt="Pinterest icon"  className='size-4'/>
+                    <img src="https://raw.githubusercontent.com/RaulTindogan/article-preview-component-master/0b8f45262b011d17df5ec4ed137262067aedc545/src/images/icon-facebook.svg" alt="Facebook Icon"  className='size-4'/>
+                    <img src="https://raw.githubusercontent.com/RaulTindogan/article-preview-component-master/0b8f45262b011d17df5ec4ed137262067aedc545/src/images/icon-pinterest.svg" alt="Twitter Icon"  className='size-4'/>
+                    <img src="https://raw.githubusercontent.com/RaulTindogan/article-preview-component-master/0b8f45262b011d17df5ec4ed137262067aedc545/src/images/icon-pinterest.svg" alt="Pinterest icon" className='size-4'/>
                   </div>
                 </button>
               </div>
             </div>
           </div>
         </article>
-        <div className={`${shareBtn?'flex ': 'hidden '}rounded-b-lg bg-Very-Dark-Grayish-Blue justify-between px-5 py-5 mt-5 text-sm text-Grayish-Blue md:hidden`}>
+        <div className={`${shareBtn?'flex ': 'hidden '}rounded-b-lg bg-Very-Dark-Grayish-B lue justify-between px-5 py-5 mt-5 text-sm text-Grayish-Blue md:hidden`}>
               <div className='flex gap-4 items-center'>
                 <p className='tracking-[.3rem]'>SHARE</p>
-                <img src="https://raw.githubusercontent.com/RaulTindogan/article-preview-component-master/0b8f45262b011d17df5ec4ed137262067aedc545/src/images/icon-facebook.svg" alt=""  className='size-4'/>
-                <img src="https://raw.githubusercontent.com/RaulTindogan/article-preview-component-master/0b8f45262b011d17df5ec4ed137262067aedc545/src/images/icon-pinterest.svg" alt=""  className='size-4'/>
-                <img src="https://raw.githubusercontent.com/RaulTindogan/article-preview-component-master/0b8f45262b011d17df5ec4ed137262067aedc545/src/images/icon-pinterest.svg" alt=""  className='size-4'/>
+                <img src="https://raw.githubusercontent.com/RaulTindogan/article-preview-component-master/0b8f45262b011d17df5ec4ed137262067aedc545/src/images/icon-facebook.svg" alt="Facebook Icon"  className='size-4'/>
+                <img src="https://raw.githubusercontent.com/RaulTindogan/article-preview-component-master/0b8f45262b011d17df5ec4ed137262067aedc545/src/images/icon-pinterest.svg" alt="Twitter Icon"  className='size-4'/>
+                <img src="https://raw.githubusercontent.com/RaulTindogan/article-preview-component-master/0b8f45262b011d17df5ec4ed137262067aedc545/src/images/icon-pinterest.svg" alt="Pinterest icon" className='size-4'/>
               </div>
               <button className='rounded-full bg-Grayish-Blue p-2' onClick={handleShareBtn}>
                 <img src="https://raw.githubusercontent.com/RaulTindogan/article-preview-component-master/0da9b89903837955d4dd683a0ac6741df99746e6/src/images/icon-share.svg" alt="Share Icon" className='size-3'/>
