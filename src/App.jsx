@@ -72,7 +72,7 @@ function App() {
                   >
                     <p className='tracking-[.3rem]'>SHARE</p>
                     <img src="https://raw.githubusercontent.com/RaulTindogan/article-preview-component-master/0b8f45262b011d17df5ec4ed137262067aedc545/src/images/icon-facebook.svg" alt="Facebook Icon"  className='size-4'/>
-                    <img src="https://raw.githubusercontent.com/RaulTindogan/article-preview-component-master/0b8f45262b011d17df5ec4ed137262067aedc545/src/images/icon-pinterest.svg" alt="Twitter Icon"  className='size-4'/>
+                    <img src="https://raw.githubusercontent.com/RaulTindogan/article-preview-component-master/03595361e5a2ed43fa97ae0abb2994eca10afe7a/src/images/icon-twitter.svg" alt="Twitter Icon"  className='size-4'/>
                     <img src="https://raw.githubusercontent.com/RaulTindogan/article-preview-component-master/0b8f45262b011d17df5ec4ed137262067aedc545/src/images/icon-pinterest.svg" alt="Pinterest icon" className='size-4'/>
                   </div>
                 </button>
@@ -84,7 +84,7 @@ function App() {
               <div className='flex gap-4 items-center'>
                 <p className='tracking-[.3rem]'>SHARE</p>
                 <img src="https://raw.githubusercontent.com/RaulTindogan/article-preview-component-master/0b8f45262b011d17df5ec4ed137262067aedc545/src/images/icon-facebook.svg" alt="Facebook Icon"  className='size-4'/>
-                <img src="https://raw.githubusercontent.com/RaulTindogan/article-preview-component-master/0b8f45262b011d17df5ec4ed137262067aedc545/src/images/icon-pinterest.svg" alt="Twitter Icon"  className='size-4'/>
+                <img src="https://raw.githubusercontent.com/RaulTindogan/article-preview-component-master/03595361e5a2ed43fa97ae0abb2994eca10afe7a/src/images/icon-twitter.svg" alt="Twitter Icon"  className='size-4'/>
                 <img src="https://raw.githubusercontent.com/RaulTindogan/article-preview-component-master/0b8f45262b011d17df5ec4ed137262067aedc545/src/images/icon-pinterest.svg" alt="Pinterest icon" className='size-4'/>
               </div>
               <button className='rounded-full bg-Grayish-Blue p-2' onClick={handleShareBtn}>
